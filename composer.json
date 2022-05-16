@@ -1,0 +1,27 @@
+{
+  "name": "gmsystem/Pagination",
+  "description": "Pagination is a simple generator of results from navigation into PHP's System",
+  "keywords": [
+    "GMSystem",
+    "ProlWeb",
+    "Pagination",
+    "Pagination"
+  ],
+  "homepage": "https://www.prolweb.com.br",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Genilson M. Souza",
+      "email": "contato@prolweb.com.br",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": ">=8.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "GMSystem\\Pagination\\": "src"
+    }
+  }
+}
